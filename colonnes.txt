@@ -1,0 +1,1 @@
+Polarite,Charge,Volume,Tendance helice,Tendance feuillet,Flexibilite,Hydropathie,Pi,Taille,Structure,Type,Sequence
